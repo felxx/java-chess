@@ -122,6 +122,7 @@ public class UI {
             }
         }
 
+        System.out.println();
         System.out.println("Captured pieces:");
         System.out.print("White: ");
         System.out.print(ANSI_WHITE);
