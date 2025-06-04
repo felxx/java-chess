@@ -7,7 +7,7 @@ This project was created based on the Professor Nélio Alves' Java course.
 ## Core Features
 
 * Text-based user interface in the console.
-* POO oriented
+* OOP oriented
 
 ## How to Run
 
